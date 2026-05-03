@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Web Development Bootcamp",
+    "instructor": "John Doe",
+    "duration": "20 hours",
+    "rating": 4.8,
+    "level": "Beginner",
+    "description": "Learn full-stack web development from scratch using MERN stack.",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "category": "Development"
+  },
+  {
+    "id": 2,
+    "title": "Advanced Graphic Design Masterclass",
+    "instructor": "Jane Smith",
+    "duration": "15 hours",
+    "rating": 4.9,
+    "level": "Intermediate",
+    "description": "Master UI/UX principles and modern design tools like Figma.",
+    "image": "https://images.unsplash.com/photo-1558655146-d09347e92766",
+    "category": "Design"
+  },
+  {
+    "id": 3,
+    "title": "Digital Marketing Strategy 2026",
+    "instructor": "Alex Johnson",
+    "duration": "12 hours",
+    "rating": 4.7,
+    "level": "Beginner",
+    "description": "Social media marketing, SEO, and content strategy for businesses.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+    "category": "Marketing"
+  },
+  {
+    "id": 4,
+    "title": "Data Science with Python",
+    "instructor": "Sarah Lee",
+    "duration": "30 hours",
+    "rating": 4.6,
+    "level": "Advanced",
+    "description": "Analyzing complex data sets and building predictive models.",
+    "image": "https://images.unsplash.com/photo-1551288049-bbda38a5f452",
+    "category": "Data Science"
+  },
+  {
+    "id": 5,
+    "title": "Professional Photography Basics",
+    "instructor": "Michael Brown",
+    "duration": "10 hours",
+    "rating": 4.5,
+    "level": "Beginner",
+    "description": "Understanding lighting, composition, and camera settings.",
+    "image": "https://images.unsplash.com/photo-1452784444945-3f422708fe5e",
+    "category": "Photography"
+  },
+  {
+    "id": 6,
+    "title": "Full Stack Next.js Mastery",
+    "instructor": "Faizul Amin",
+    "duration": "25 hours",
+    "rating": 5.0,
+    "level": "Intermediate",
+    "description": "Build high-performance web apps with Next.js App Router.",
+    "image": "https://images.unsplash.com/photo-1618477247222-acbdb0e159b3",
+    "category": "Development"
+  }
+]

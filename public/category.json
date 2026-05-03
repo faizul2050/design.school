@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Development",
+    "slug": "development",
+    "description": "Master coding and software engineering skills.",
+    "thumbnail": "https://images.unsplash.com/photo-1498050108023-c5249f4df085"
+  },
+  {
+    "id": 2,
+    "name": "Design",
+    "slug": "design",
+    "description": "Learn creative visual and user experience design.",
+    "thumbnail": "https://images.unsplash.com/photo-1558655146-d09347e92766"
+  },
+  {
+    "id": 3,
+    "name": "Marketing",
+    "slug": "marketing",
+    "description": "Build strategies for business growth and branding.",
+    "thumbnail": "https://images.unsplash.com/photo-1460925895917-afdab827c52f"
+  },
+  {
+    "id": 4,
+    "name": "Data Science",
+    "slug": "data-science",
+    "description": "Analyze data and build intelligent models.",
+    "thumbnail": "https://images.unsplash.com/photo-1551288049-bbda38a5f452"
+  },
+  {
+    "id": 5,
+    "name": "Photography",
+    "slug": "photography",
+    "description": "Capture the world through professional lens work.",
+    "thumbnail": "https://images.unsplash.com/photo-1452784444945-3f422708fe5e"
+  }
+]
